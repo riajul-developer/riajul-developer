@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riajul Islam</h1>
 <h3 align="center">Software Engineer</h3>
-<br>
+<!-- <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=riajul-developer&color=orange" alt="riajul" /> 
-</p>
+</p> -->
 <br>
     I’m a skilled Full Stack Developer with 3.5+ years of experience in React.js, Next.js, Vue.js, Node.js,
     Laravel, and Golang. I have expertise in high-performance backend systems, architecture
@@ -11,13 +11,13 @@
     distributed systems. I am proficient in various cloud services, particularly AWS, and have strong
     skills in DSA and problem-solving & DevOps skills.
 <br>
-<br>
+<!-- <br>
 <p align="left">
     <a href="https://github.com/riajul-developer?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/riajul-developer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/riajul-developer?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/riajul-developer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+</p> -->
 
 <!-- ---
 
