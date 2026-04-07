@@ -4,12 +4,13 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=riajul-developer&color=orange" alt="riajul" /> 
 </p> -->
 <br>
-    I’m a skilled Full Stack Developer with 3.5+ years of experience in React.js, Next.js, Vue.js, Node.js,
-    Laravel, and Golang. I have expertise in high-performance backend systems, architecture
-    optimization, and efficient query optimization. I am experienced in WebSocket/Pusher-based tasks,
-    SQL/NoSQL databases. Additionally, I have worked with microservices, Kubernetes, and
-    distributed systems. I am proficient in various cloud services, particularly AWS, and have strong
-    skills in DSA and problem-solving & DevOps skills.
+I’m a highly skilled Software Engineer with 4+ years of experience specializing in React.js, Next.js, Vue.js, Node.js, FastAPI, and Golang. I have strong expertise in building high-performance backend systems, scalable architectures, and efficient query optimization.
+
+I am a specialist in Node.js and Golang, with hands-on experience in developing microservices, distributed systems, and MCP server architectures. I have solid experience working with event-driven architectures using tools like RabbitMQ, Kafka, and Redis, along with WebSocket/Pusher-based real-time systems and both SQL & NoSQL databases.
+
+Additionally, I possess strong DevOps skills, including Docker, Kubernetes, CI/CD pipelines, and cloud platforms such as AWS, Azure, and Google Cloud Platform (GCP). I am also actively working with AI-driven backend solutions and system integrations.
+
+With a strong foundation in Data Structures & Algorithms (DSA) and problem-solving, I focus on building efficient, scalable, and production-ready systems.
 <br>
 <!-- <br>
 <p align="left">
