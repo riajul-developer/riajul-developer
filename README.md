@@ -4,7 +4,7 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=riajul-developer&color=orange" alt="riajul" /> 
 </p> -->
 <br>
-I’m a highly skilled Software Engineer with 4+ years of experience specializing in React.js, Next.js, Vue.js, Node.js, FastAPI, and Golang. I have strong expertise in building high-performance backend systems, scalable architectures, and efficient query optimization.
+I’m a highly skilled Software Engineer with 5+ years of experience specializing in React.js, Next.js, Vue.js, Node.js, FastAPI, and Golang. I have strong expertise in building high-performance backend systems, scalable architectures, and efficient query optimization.
 
 I am a specialist in Node.js and Golang, with hands-on experience in developing microservices, distributed systems, and MCP server architectures. I have solid experience working with event-driven architectures using tools like RabbitMQ, Kafka, and Redis, along with WebSocket/Pusher-based real-time systems and both SQL & NoSQL databases.
 
